@@ -1,0 +1,56 @@
+
+
+.card,
+.post{
+   width: 500px;
+   padding: 30px 40px;
+   margin:20px 1000px;
+   box-sizing: border-box;
+   background-image: url(./elephant.jpg);
+   background-size: cover;
+   background-position: center;
+   font-family:Century Gothic ;
+   color: rgb(238, 255, 0);
+   border-radius: 10px;
+}
+.post h1{
+   text-align: center;
+
+} 
+.post p{
+   text-align: justify;
+   font-size: 16px;
+   line-height: 24px;
+}
+.post a{
+   font-size: 20px;
+   text-decoration: none;
+   background-color: rgb(168, 9, 216);
+   color: black;
+   padding: 10px 25px;
+   display: inline-block;
+   border-radius: 15px;
+}
+.card{
+   background-image: linear-gradient( to right,#bdc3c7 , #2c3e50 );
+   color:rgb(212, 16, 186);
+}
+
+
+.card h1{
+   text-align: center ;
+}
+.card a{
+   font-size: 20px;
+   text-decoration: none;
+   background-color: rgb(168, 9, 216);
+   color: black;
+   padding: 10px 25px;
+   display: inline-block;
+   border-radius: 15px;
+}
+.card h1 span{
+    font-size: 20px;
+    color: darkblue;
+    font-family:Perpetua ;
+}
